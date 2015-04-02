@@ -35,7 +35,7 @@ public class MyGeneric <B> implements Iterable<B> { //Iterator<B>,extends Boolea
         contents.set(x, obj);
     }
     /**
-     * This method heps to find out the value of specific index.
+     * This method helps to reach the value of specific index.
      * @param index index number which is wanted to know the value.
      * @return it returns the value of specific index.
      */
@@ -50,7 +50,7 @@ public class MyGeneric <B> implements Iterable<B> { //Iterator<B>,extends Boolea
      */
     @Override
     public Iterator<B> iterator() {
-        Iterator<B> iprof = contents.iterator();
-        return iprof;
+        Iterator<B> i = contents.iterator();
+        return i;
     }
 }
