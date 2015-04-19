@@ -39,3 +39,7 @@ from 2 up to the (x – 1) is a divisor of x.
 - throw and handle of own exception(s),
 - use of "for-each" loop,
 - at least one generic class (arrays are prohibited),
+
+***Feedback comments for Proje02:***
+- missing Javadoc comments (package-info, class fields),
+- there should be no direct display in controller, only through view
