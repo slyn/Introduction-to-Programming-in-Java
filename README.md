@@ -43,3 +43,15 @@ from 2 up to the (x – 1) is a divisor of x.
 ***Feedback comments for Proje02:***
 - missing Javadoc comments (package-info, class fields),
 - there should be no direct display in controller, only through view
+
+####Proje03####
+
+***Required elements for Proje03:***
+- all specified requirements for previous reports, 
+- all previously indicated faults should be removed, 
+- definition of unit tests, 
+- definition of test suite, 
+- tests of main model methods 
+- tests of normal, abnormal and border situations
+
+***Feedback comments for Proje03:***
